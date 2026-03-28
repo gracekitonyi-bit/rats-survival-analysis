@@ -11,7 +11,7 @@
 |---|---|
 | Project 1 — Parametric Analysis | [View on RPubs](https://rpubs.com/Grace_k/rats-survival-analysis) |
 | Project 2 — Extended Workflow | [View on RPubs](https://rpubs.com/Grace_k/rats-survival-analysis-2) |
-| GitHub Repository | [walternyamutamba-svg/rats-survival-analysis](https://github.com/gracekitonyi-bit/rats-survival-analysis) |
+| GitHub Repository | [gracekitonyi-bit/rats-survival-analysis](https://github.com/gracekitonyi-bit/rats-survival-analysis) |
 
 ---
 
